@@ -2,20 +2,27 @@
 
 ## Overview
 
-Power BI and data analytics work completed during my Data Analyst internship in the manufacturing domain.
+During my Data Analyst internship at BSL Limited, I worked on Power BI and data analytics projects focused on manufacturing and operational performance.
 
-The project focused on transforming operational data into interactive dashboards for monitoring production, performance and business KPIs.
+The work involved transforming operational data into dashboards and analytical reports to support business decision-making.
 
-## Key Analysis Areas
+## Work Performed
 
-- Manufacturing performance
-- Production vs. target
-- Operational KPI monitoring
-- Sales and dispatch analytics
-- Loss and downtime analysis
-- Data cleaning and transformation
-- Data modeling
-- Interactive filters and drill-downs
+### Manufacturing Performance Dashboard
+
+- Built a Manufacturing Performance Dashboard using Power BI.
+- Developed KPI visualizations to monitor production and operational performance.
+- Analyzed production performance against targets.
+- Created visualizations for losses and downtime.
+- Used data cleaning, transformation and modeling to prepare data for analysis.
+- Implemented interactive filters and drill-downs for detailed analysis.
+
+### Sales and Dispatch Analytics
+
+- Performed sales and dispatch analytics to identify business trends.
+- Analyzed operational performance and business metrics.
+- Converted raw operational data into meaningful visual insights for management.
+
 
 ## Tools & Technologies
 
@@ -23,18 +30,12 @@ The project focused on transforming operational data into interactive dashboards
 - DAX
 - SQL
 - Data Modeling
+- Data Cleaning & Transformation
 - Data Visualization
 - Excel
 
-## Dashboard
+## Confidentiality
 
+The original internship work involved proprietary company data. Therefore, the original Power BI `.pbix` files, datasets and confidential business information are not included in this repository.
 
-> **Confidentiality:** The original internship project used proprietary company data. The original `.pbix` file, company datasets and confidential business information are not included in this public repository.
-
-
-## Project Structure
-
-```text
-dashboard/       Dashboard screenshots
-documentation/   Project documentation
-sample-data/     Synthetic/non-confidential sample data
+This repository documents the work performed and the technical skills applied during the internship.
